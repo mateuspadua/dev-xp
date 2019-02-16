@@ -1,6 +1,6 @@
 # Dev-XP
 
-## compartilhando experiências de desenvolvimento em Python, Go, DevOps, etc...
+## Compartilhando experiências de desenvolvimento em Python, Go, DevOps, etc...
 ## Repositório de links e tutoriais discutidos no grupo DevXP
 
 * Os links devem estar contidos dentro de seus respectivos diretórios.
